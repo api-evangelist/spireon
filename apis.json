@@ -1,0 +1,65 @@
+{
+    "name": "Spireon",
+    "description": "GPS Vehicle Tracking - As North America???s leading connected vehicle intelligence company with nearly 4 million active subscribers, Spireon provides businesses and consumers with powerful insights to track, manage and protect their most valuable mobile ...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28279-api-spireon-com.jpg",
+    "tags": [
+        "have api",
+        "locations",
+        "surveillance"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/spireon\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Spireon",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28279-api-spireon-com.jpg",
+            "humanURL": "https:\/\/api.spireon.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/spireon-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/spireon-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/spireon"
+        },
+        {
+            "type": "Email",
+            "url": "customer_support@spireon.com"
+        },
+        {
+            "type": "Email",
+            "url": "KahuSupport@spireon.com"
+        },
+        {
+            "type": "Email",
+            "url": "ati-support@spireon.com"
+        },
+        {
+            "type": "Email",
+            "url": "vehiclepath-service@spireon.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Spireon"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/api.spireon.com"
+        }
+    ]
+}
